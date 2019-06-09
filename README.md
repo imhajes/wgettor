@@ -13,7 +13,7 @@ Requirements:
 usage:
 <pre>
   <code>
-python wgettor.py -t &lt;target URL or IP&gt; '-n &lt;number of requests to make on target&gt;
+python wgettor.py -t &lt;target URL or IP&gt; -n &lt;number of requests to make on target&gt;
 sudo python -t https://somesite.com -n 5000
   </code>
 </pre>
