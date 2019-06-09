@@ -39,7 +39,8 @@ class WgetTor:
             "W3C_Validator/1.432.2.10",
             "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)",
             "Cyberdog/2.0 (Macintosh; 68k)",
-            "Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (SymbianOS/24.838; U; en)",
+            "MJ12bot/v1.0.8 (http://majestic12.co.uk/bot.php?+)",
+            "Exabot/2.0",
             "TurnitinBot/1.5 (http://www.turnitin.com/robot/crawlerinfo.html)",
             "Jyxobot/1",
             "Mozilla/5.0 (compatible; news bot /2.1)",
@@ -47,9 +48,13 @@ class WgetTor:
             "curl/7.19.6 (i686-pc-cygwin)",
             "facebookexternalhit/1.1;line-poker/1.0",
             "ConveraCrawler/0.4",
+            "Mozilla/4.0 (MSIE 6.0; Windows NT 5.1; Search)",
+            "Yahoo Pipes 1.0",
+            "EARTHCOM.info/1.6 [www.earthcom.info]",
             "librabot/1.0 (+http://search.msn.com/msnbot.htm)",
             "NetResearchServer/2.5(loopimprovements.com/robot.html)",
             "PHP/5.2.10",
+            "msnbot-Products/1.0 (+http://search.msn.com/msnbot.htm)",
             "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;)"
         ]
 
