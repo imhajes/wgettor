@@ -105,8 +105,6 @@ class WgetTor:
             t = Thread(target=self.request)
             t.start()
             threads.append(t)
-        for thread in threads:
-            thread.join()
 
 
 if __name__ == '__main__':
