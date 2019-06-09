@@ -23,7 +23,7 @@ prior to running.
 <br>
 You can replace or add user-agents inside the set_user_agents() method
 <br><br>
-<img src="https://github.com/rootVIII/wgettor/blob/master/web_server_log_screenshot.png" alt="example1" height="675" width="950"><hr>
+<img src="https://github.com/rootVIII/wgettor/blob/master/web_server_log_screenshot.png" alt="example1" height="375" width="950"><hr>
 <br><br>
 This was developed on Ubuntu 16.04.4 LTS.
 <hr>
