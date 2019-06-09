@@ -8,6 +8,7 @@ Requirements:
   <li>python3</li>
   <li>netstat/net-tools</li>
   <li>tor/torsocks</li>
+  <li>wget</li>
 </ul>
 
 usage:
@@ -22,6 +23,8 @@ Ensure that tor is running as a service on local host at 127.0.0.1:9050
 prior to running.
 <br>
 You can replace or add user-agents inside the set_user_agents() method
+<br><br>
+Passes pep8/pycodestyle
 <br><br>
 <img src="https://github.com/rootVIII/wgettor/blob/master/web_server_log_screenshot.png" alt="example1" height="375" width="950"><hr>
 <br><br>

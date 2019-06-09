@@ -15,7 +15,7 @@ from sys import exit
 #
 # This program relies on the Torsocks shell utility
 #
-# requirements: Python 3, Tor/Torsocks, netstat
+# requirements: Python3, Tor/Torsocks, netstat, wget
 
 
 class WgetTor:
