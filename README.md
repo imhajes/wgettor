@@ -27,4 +27,4 @@ You can replace or add user-agents inside the set_user_agents() method
 <br><br>
 This was developed on Ubuntu 16.04.4 LTS.
 <hr>
-<b>Author: James Loye Colley  14OCT2018</b>
+<b>Author: James Loye Colley  09JUN2019</b>
