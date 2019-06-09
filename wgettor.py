@@ -112,11 +112,9 @@ class WgetTor:
             self.reload_tor()
 
     def run(self):
-        threads = []
         for get in range(self.number_requests):
             t = Thread(target=self.request)
             t.start()
-            threads.append(t)
 
 
 if __name__ == '__main__':
