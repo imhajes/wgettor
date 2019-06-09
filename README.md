@@ -20,6 +20,8 @@ sudo python -t https://somesite.com -n 5000
 
 Ensure that tor is running as a service on local host at 127.0.0.1:9050
 prior to running.
+<br>
+You can replace or add user-agents inside the set_user_agents() method
 <br><br>
 <img src="https://github.com/rootVIII/wgettor/blob/master/web_server_log_screenshot.png" alt="example1" height="675" width="950"><hr>
 <br><br>
