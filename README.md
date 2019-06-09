@@ -1,6 +1,6 @@
 #### WGETTOR
 
-###### A torsocks DDOS tool for Debian Linux:   python + wget + tor
+###### A torsocks DDOS tool for Debian Linux Distros:   python + wget + tor
 
 Requirements:
  <ul>
