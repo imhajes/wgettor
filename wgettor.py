@@ -126,6 +126,5 @@ if __name__ == '__main__':
     parser.add_argument('-n', '--number', required=True, help=h[1])
     args_in = parser.parse_args()
     wgettor = WgetTor(args_in.target, args_in.number)
-    print('executing ->')
     wgettor.check_config()
     wgettor.run()
