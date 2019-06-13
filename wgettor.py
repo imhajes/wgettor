@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 # rootVIII
 from threading import Thread, Lock
 from argparse import ArgumentParser

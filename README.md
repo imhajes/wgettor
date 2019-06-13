@@ -11,7 +11,7 @@ Requirements:
   <li>wget</li>
 </ul>
 
-usage:
+Usage:
 <pre>
   <code>
 python wgettor.py -t &lt;target URL or IP&gt; -n &lt;number of requests to make on target&gt;
