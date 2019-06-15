@@ -105,8 +105,9 @@ class WgetTor:
     def request(self):
         cmd = self.wget % (self.get_agent(), self.target_address)
         try:
-            print(cmd)
             Popen(cmd, stdout=PIPE, shell=True)
+            stdout.write(cmd + '\r')
+            stdout.write("\033[K")
         except Exception:
             pass
         finally:
