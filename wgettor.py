@@ -32,31 +32,13 @@ class WgetTor:
     @staticmethod
     def set_user_agents():
         return [
-            "Opera/9.80 (S60; SymbOS; Opera Mobi/498; U; sv)",
-            "Wget/1.11.4 (Red Hat modified)",
-            "GSiteCrawler/v1.06 rev. 251 (http://gsitecrawler.com/)",
-            "Mozilla/2.02 [fr] (WinNT; I)",
-            "WeatherReport/1.2.2 CFNetwork/485.12.7 Darwin/10.4.0",
-            "W3C_Validator/1.432.2.10",
-            "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)",
-            "Cyberdog/2.0 (Macintosh; 68k)",
-            "MJ12bot/v1.0.8 (http://majestic12.co.uk/bot.php?+)",
-            "Exabot/2.0",
-            "TurnitinBot/1.5 (http://www.turnitin.com/robot/crawlerinfo.html)",
-            "Jyxobot/1",
-            "Mozilla/5.0 (compatible; news bot /2.1)",
-            "admantx-sap/2.4 (+http://www.admantx.com/service-fetcher.html)",
-            "curl/7.19.6 (i686-pc-cygwin)",
-            "facebookexternalhit/1.1;line-poker/1.0",
-            "ConveraCrawler/0.4",
-            "Mozilla/4.0 (MSIE 6.0; Windows NT 5.1; Search)",
-            "Yahoo Pipes 1.0",
-            "EARTHCOM.info/1.6 [www.earthcom.info]",
-            "librabot/1.0 (+http://search.msn.com/msnbot.htm)",
-            "NetResearchServer/2.5(loopimprovements.com/robot.html)",
-            "PHP/5.2.10",
-            "msnbot-Products/1.0 (+http://search.msn.com/msnbot.htm)",
-            "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1;)"
+            "Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_3 like Mac OS X) AppleWebKit/602.1.32 (KHTML, like Gecko) Mobile/14A551 Twitter for iPhone",
+            "Mozilla/5.0 (iPad; CPU OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 Twitter for iPhone",
+            "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0_3 like Mac OS X) AppleWebKit/602.1.32 (KHTML, like Gecko) Mobile/14A551 Twitter for iPhone",
+            "Mozilla/5.0 (iPhone; CPU iPhone OS 13_0_3 like Mac OS X) AppleWebKit/602.1.32 (KHTML, like Gecko) Mobile/14A551 Twitter for iPhone",
+            "Mozilla/5.0 (iPhone; CPU iPhone OS 9_0_3 like Mac OS X) AppleWebKit/602.1.32 (KHTML, like Gecko) Mobile/14A551 Twitter for iPhone",
+            "Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_3 like Mac OS X) AppleWebKit/602.1.32 (KHTML, like Gecko) Mobile/14A551 Twitter for iPhone",
+            "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_3 like Mac OS X) AppleWebKit/602.1.32 (KHTML, like Gecko) Mobile/14A551 Twitter for iPhone",
         ]
 
     @staticmethod
